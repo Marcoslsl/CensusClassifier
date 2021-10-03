@@ -7,7 +7,17 @@ It's known that to provide a good prediction about the risk of offering credit t
 This project has its focus on providing a response about the income of the customers,  through a machine learning classifier algorithm to make these predictions. For Helping the bank to make better analyzes, and to choose what customers to provide more credit to or not. 
 objective: Predict whether income exceeds $50K/yr based on census data.
 
+Summarized Steps:
 
+- 1. Load
+- 2. Problem Hypothesis
+- 3. EDA
+- 4. Filtering variables
+- 5. Data Preparation
+- 6. Machine Learning
+- 7. Tune
+- 8. Understanding The Result
+- 9. Deploy
 
 I took this Dataset from: https://archive.ics.uci.edu/ml/datasets/adult
 
